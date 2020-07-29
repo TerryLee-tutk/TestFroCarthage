@@ -15,6 +15,7 @@
 		E99BF34F24D1285F00C9DC01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E99BF34E24D1285F00C9DC01 /* Assets.xcassets */; };
 		E99BF35224D1285F00C9DC01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E99BF35024D1285F00C9DC01 /* LaunchScreen.storyboard */; };
 		E9F2874A24D12DEF00ACA2E1 /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F2874924D12DEF00ACA2E1 /* People.swift */; };
+		E9F2874B24D12F1D00ACA2E1 /* People.swift in Headers */ = {isa = PBXBuildFile; fileRef = E9F2874924D12DEF00ACA2E1 /* People.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +101,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E99BF33924D1282300C9DC01 /* TestFroCarthage.h in Headers */,
+				E9F2874B24D12F1D00ACA2E1 /* People.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
