@@ -11,7 +11,7 @@ import Foundation
 public class People {
     
     public var name: String
-    var age: Int
+    public var age: Int
     
     public init(name: String, age: Int) {
         self.name = name
@@ -22,7 +22,7 @@ public class People {
         print(name)
     }
     
-    func printAge() {
+    public func printAge() {
         print(age)
     }
 }
